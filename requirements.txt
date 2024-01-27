@@ -1,0 +1,11 @@
+pytest
+pytest-pycodestyle
+requests
+flask
+pymodm
+pillow
+pymongo[srv]
+numpy
+scipy
+matplotlib
+testfixtures
